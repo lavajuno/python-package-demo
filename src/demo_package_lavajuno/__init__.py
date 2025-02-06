@@ -1,1 +1,1 @@
-import demo
+from . import demo
